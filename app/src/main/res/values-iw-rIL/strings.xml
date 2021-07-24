@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">לוח שנה</string>
+    <string name="backward"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="Save">שמור</string>
+    <string name="Time">זמן</string>
+    <string name="Date">תאריך</string>
+    <string name="Name">שם:</string>
+    <string name="SUN">א\'</string>
+    <string name="MON">ב\'</string>
+    <string name="TUE">ג\'</string>
+    <string name="WED">ד\'</string>
+    <string name="THUR">ה\'</string>
+    <string name="FRI">ו\'</string>
+    <string name="SAT">ש\'</string>
+    <string name="NewEvent">אירוע חדש</string>
+    <string name="Feb2021">פבר 2021</string>
+    <string name="Weekly">שבועי</string>
+</resources>
